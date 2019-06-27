@@ -22,13 +22,13 @@ organizerName: "The ResBaz Brisbane Organiser Crew"
 organizerAlternateName: "ResBazBris"
 organizerDescription: "We organise annual skills and community building events."
 organizerEmail: "resbazbris@gmail.com"
-organizerLogo: "/img/seo/research-bazaar.jpg"
+organizerLogo: "/img/seo/resbazsm.jpg"
 organizerLink: "https://resbaz.github.io/resbaz2019/brisbane/"
 
 # Head
 metaKeywords: "skills, research skills, coding, workshops"
 twitterAccount: "@ResBazBris"
-socialImageSrcTwitter: "/img/seo/research-bazaar.jpg"
+socialImageSrcTwitter: "/img/seo/resbazsm.jpg"
 
 # Navigation
 navigationLinks:
@@ -42,7 +42,7 @@ navigationLinks:
 heroImage: "hero.jpg"
 heroTitle: "ResBaz Brisbane <typeout> 2019"
 eventDate: "9-11 July, 2019"
-typeoutTextValues: '"", "Brisbane", "Australia"'
+typeoutTextValues: '"", "Brisbane", "2019"'
 typeoutFallback: "Brisbane"
 heroButtons:
  - {link: "https://pay.qut.edu.au/ConferencesandEvents/booking?UDS_ACTION_DATA=YFkhdEMzX3FOUyQLQEJDcShWQnRNXDEbWzI2LXY1UkR8NV9c", text: "Buy tickets"}
