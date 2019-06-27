@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "ResBaz Brisbane"
 email: "resbazbris@gmail.com"
-description: "A skills and community building festival for researchers"
+description: "A three-day skills and community building festival for researchers"
 baseurl: "/resbazbris"
 url: "https://weaverbel.github.io"
 permalink: "/blog/:title"
@@ -22,7 +22,7 @@ organizerName: "The ResBaz Brisbane Organiser Crew"
 organizerAlternateName: "ResBazBris"
 organizerDescription: "We organise annual skills and community building events."
 organizerEmail: "resbazbris@gmail.com"
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/sections-background/research-bazaar.jpg"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
@@ -30,14 +30,9 @@ metaKeywords: "skills, research skills, coding, workshops"
 twitterAccount: "@ResBazBris"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 
-# Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
@@ -58,14 +53,6 @@ aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
-
-# Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -162,9 +149,7 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=ResBazBris", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
