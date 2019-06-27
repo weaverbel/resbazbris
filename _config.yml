@@ -28,7 +28,7 @@ organizerLink: "https://resbaz.github.io/resbaz2019/brisbane/"
 # Head
 metaKeywords: "skills, research skills, coding, workshops"
 twitterAccount: "@ResBazBris"
-socialImageSrcTwitter: "img/sections-background/research-bazaar.jpg"
+socialImageSrcTwitter: "/img/seo/research-bazaar.jpg"
 
 # Navigation
 navigationLinks:
