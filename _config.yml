@@ -22,7 +22,7 @@ organizerName: "The ResBaz Brisbane Organiser Crew"
 organizerAlternateName: "ResBazBris"
 organizerDescription: "We organise annual skills and community building events."
 organizerEmail: "resbazbris@gmail.com"
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/sections-background/research-bazaar.jpg"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
@@ -39,7 +39,7 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Venue"}
 
 # Hero Block
-heroImage: "resesarch-bazaar.jpg"
+heroImage: "hero.jpg"
 heroTitle: "ResBaz Brisbane <typeout> 2019"
 eventDate: "9-11 July, 2019"
 typeoutTextValues: '"", "Brisbane", "Australia"'
