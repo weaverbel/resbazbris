@@ -30,26 +30,22 @@ metaKeywords: "skills, research skills, coding, workshops"
 twitterAccount: "@ResBazBris"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 
-# Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+ - {permalink: "/team/", text: "organisers"}
  - {permalink: "/logistics/", text: "Venue"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "resbaz.jpg"
 heroTitle: "ResBaz Brisbane <typeout> 2019"
 eventDate: "9-11 July, 2019"
 typeoutTextValues: '"", "Brisbane", "Australia"'
 typeoutFallback: "Brisbane"
 heroButtons:
- - {permalink: "https://pay.qut.edu.au/ConferencesandEvents/booking?UDS_ACTION_DATA=YFkhdEMzX3FOUyQLQEJDcShWQnRNXDEbWzI2LXY1UkR8NV9c", text: "Buy tickets"}
+ - {link: "https://pay.qut.edu.au/ConferencesandEvents/booking?UDS_ACTION_DATA=YFkhdEMzX3FOUyQLQEJDcShWQnRNXDEbWzI2LXY1UkR8NV9c", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About ResBaz Brisbane"
