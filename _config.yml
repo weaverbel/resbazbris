@@ -22,13 +22,13 @@ organizerName: "The ResBaz Brisbane Organiser Crew"
 organizerAlternateName: "ResBazBris"
 organizerDescription: "We organise annual skills and community building events."
 organizerEmail: "resbazbris@gmail.com"
-organizerLogo: "img/sections-background/research-bazaar.jpg"
+organizerLogo: "img/seo/research-bazaar.jpg"
 organizerLink: "https://resbaz.github.io/resbaz2019/brisbane/"
 
 # Head
 metaKeywords: "skills, research skills, coding, workshops"
 twitterAccount: "@ResBazBris"
-socialImageSrcTwitter: "/img/seo/research-bazaar.jpg"
+socialImageSrcTwitter: "img/seo/research-bazaar.jpg"
 
 # Navigation
 navigationLinks:
